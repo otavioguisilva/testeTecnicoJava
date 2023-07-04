@@ -1,0 +1,20 @@
+.window{
+	-fx-border-radius: 10.0;
+	-fx-background-radius: 10.0;
+	-fx-border-color: rgba(0,0,0,0.5);
+	-fx-background-color:rgba(250.0,250.0,250.0,1.0);
+}
+
+.fundoJanela{
+	-fx-background-color: rgba(110, 110, 110, 0.6);
+}
+
+Button{
+	-fx-font-size: 15.0;
+}
+
+.container{
+	-fx-background-color:  rgb(210,210,210,.4);
+	-fx-background-radius: 15;
+	-fx-border-radius: 15;
+}
