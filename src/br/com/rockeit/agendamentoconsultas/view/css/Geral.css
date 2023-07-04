@@ -1,0 +1,89 @@
+.fundoTelaPrincipal{
+	 -fx-background-color: linear-gradient(from 95.0% 9.0% to 100.0% 100.0%, #076A9D, #ffffff 100.0%);
+}
+
+.fundolaranja{
+	 -fx-background-color: linear-gradient(from 100.0% 10.0% to 100.0% 100.0%, #f76000, #ffffff 100.0%);
+}
+
+.fundovermelho{
+	 -fx-background-color: linear-gradient(from 100.0% 10.0% to 100.0% 100.0%, #bf0000, #ffffff 100.0%);
+}
+
+.fundooffline{
+	 -fx-background-color: linear-gradient(from 100.0% 10.0% to 100.0% 100.0%, #000000, #ffffff 100.0%);
+}
+
+.shadow {
+	 -fx-effect: dropshadow( one-pass-box , rgba(0.0,0.0,0.0,0.4) , 15.0, 0.2 , 3.0 , 3.0 );
+}
+
+.window{
+	-fx-border-radius: 10.0;
+	-fx-background-radius: 10.0;
+	-fx-border-color: rgba(0,0,0,0.5);
+	-fx-background-color:white;
+}
+
+.fundoJanela{
+	-fx-background-color: rgba(110, 110, 110, 0.6);
+}
+
+Button{
+	-fx-font-size: 15.0;
+}
+
+.container{
+	-fx-background-color:  rgb(210,210,210,.4);
+	-fx-background-radius: 15;
+	-fx-border-radius: 15;
+}
+
+.negrito{
+	-fx-font-weight: bold;
+}
+
+.title{
+	-fx-font-size: 15.0;
+	-fx-font-weight: bold;
+}
+
+.informacaoDestaque{
+	-fx-font-size: 24.0;
+	-fx-font-weight: bold;
+}
+
+
+.screenTitle{
+	-fx-font-family: Andalus;
+	-fx-font-size: 30.0;
+	-fx-font-weight: bold;
+}
+
+.screenTitle26{
+	-fx-font-family: Andalus;
+	-fx-font-size: 30.0;
+	-fx-font-weight: bold;
+}
+
+.subTitle{
+	-fx-font-size: 13.0;
+	-fx-font-weight: bold;
+}
+
+.texto{
+	-fx-font-size: 12.0;
+	-fx-min-height: 25.0;
+}
+
+.texto12{
+	-fx-font-size: 12.0;
+}
+
+.texto9{
+	-fx-font-size: 9.0;
+}
+
+.texto14{
+	-fx-font-size: 14.0;
+}
